@@ -14,7 +14,7 @@ require (
 	github.com/tektoncd/plumbing v0.0.0-20200615101855-f56d60092af6
 	go.uber.org/zap v1.15.0
 	golang.org/x/crypto v0.0.0-20200709230013-948cd5f35899
-	golang.org/x/sys v0.0.0-20200805065543-0cf7623e9dbd // indirect
+	golang.org/x/sys v0.1.0 // indirect
 	golang.org/x/tools v0.0.0-20200901153117-6e59e24738da // indirect
 	google.golang.org/api v0.30.0 // indirect
 	google.golang.org/genproto v0.0.0-20200804151602-45615f50871c // indirect
